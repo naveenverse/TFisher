@@ -1,0 +1,484 @@
+DOID,name,parent_term,synonyms
+DOID:0001816,angiosarcoma,cancer,hemangiosarcoma
+DOID:0050458,juvenile myelomonocytic leukemia,myeloid neoplasm,NIL
+DOID:0050523,adult T-cell leukemia,T-cell lymphoblastic leukemia/lymphoma,"Adult T-cell leukemia/lymphoma,Adult T-cell leukemia/lymphoma (HTLV-1 positive)"
+DOID:0050626,gastrointestinal neuroendocrine tumor,gastrointestinal system cancer,"gastrointestinal neuroendocrine tumour,malignant gastrointestinal neuroendocrine tumor,malignant gastrointestinal neuroendocrine tumour"
+DOID:0050743,mature T-cell and NK-cell lymphoma,lymphoma,"mature T-cell and natural killer cell lymphoma,NK-T cell lymphoma"
+DOID:0050744,anaplastic large cell lymphoma,lymphoma,NIL
+DOID:0050745,diffuse large B-cell lymphoma,B-cell lymphoma,DLBCL
+DOID:0050746,mantle cell lymphoma,B-cell lymphoma,NIL
+DOID:0050748,marginal zone B-cell lymphoma,B-cell lymphoma,marginal zone lymphoma
+DOID:0050749,peripheral T-cell lymphoma,mature T-cell and NK-cell lymphoma,NIL
+DOID:0050751,T-cell large granular lymphocyte leukemia,T-cell lymphoblastic leukemia/lymphoma,"Large granular lymphocytic leukaemia,Large granular lymphocytic leukemia,T-cell large granular lymphocyte leukaemia"
+DOID:0050773,paraganglioma,NIL,"chemodectoma,glomus body tumor"
+DOID:0050787,juvenile polyposis syndrome,NIL,NIL
+DOID:0050804,glioblastoma proneural subtype,glioblastoma,NIL
+DOID:0050861,colorectal adenocarcinoma,colorectal cancer,NIL
+DOID:0050866,oral squamous cell carcinoma,gastrointestinal system cancer,mouth squamous cell carcinoma
+DOID:0050873,follicular lymphoma,B-cell lymphoma,NIL
+DOID:0050892,adrenal gland pheochromocytoma,cancer,NIL
+DOID:0050896,bone squamous cell carcinoma,cancer,NIL
+DOID:0050897,bone chondrosarcoma,chondrosarcoma,NIL
+DOID:0050899,brain stem medulloblastoma,brain cancer,NIL
+DOID:0050900,sacrum chordoma,chordoma,NIL
+DOID:0050901,corpus callosum oligodendroglioma,brain oligodendroglioma,NIL
+DOID:0050902,medulloblastoma,brain cancer,"brain medulloblastoma,CNS PNET,CPNET,infratentorial primitive neuroectodermal tumor,localized primitive neuroectodermal tumor"
+DOID:0050903,parietal lobe ependymoma,brain cancer,NIL
+DOID:0050904,salivary gland carcinoma,salivary gland cancer,NIL
+DOID:0050905,inflammatory myofibroblastic tumor,cancer,NIL
+DOID:0050907,mixed extragonadal germ cell cancer,cancer,NIL
+DOID:0050908,myelodysplastic syndrome,bone marrow cancer,NIL
+DOID:0050909,MALT lymphoma,marginal zone B-cell lymphoma,mucosa-associated lymphoid tissue lymphoma
+DOID:0050911,appendix carcinoid tumor,appendix cancer,appendix carcinoid endocrine tumour
+DOID:0050913,large intestine adenocarcinoma,gastrointestinal system cancer,NIL
+DOID:0050916,bronchus mucoepidermoid carcinoma,salivary gland carcinoma,NIL
+DOID:0050917,lung combined type small cell adenocarcinoma,lung small cell carcinoma,NIL
+DOID:0050918,vaginal carcinoma,female reproductive organ cancer,NIL
+DOID:0050919,trachea mucoepidermoid carcinoma,salivary gland carcinoma,NIL
+DOID:0050920,tonsil squamous cell carcinoma,oropharynx cancer,NIL
+DOID:0050921,pharynx squamous cell carcinoma,gastrointestinal system cancer,NIL
+DOID:0050922,gastrointestinal carcinoma,gastrointestinal system cancer,NIL
+DOID:0050923,spindle epithelial tumor with thymus-like differentiation tumor,thyroid gland carcinoma,"SETTLE tumor,SETTLE tumour,spindle epithelial tumour with thymus-like differentiation tumour"
+DOID:0050924,striated muscle rhabdoid tumor,cancer,NIL
+DOID:0050925,small intestine carcinoid neuroendocrine tumor,gastrointestinal system cancer,"intestinal carcinoid tumour"" BROAD"
+DOID:0050926,jejunal adenocarcinoma,gastrointestinal system cancer,NIL
+DOID:0050928,ovarian melanoma,ovarian cancer,NIL
+DOID:0050929,mucosal melanoma,melanoma,NIL
+DOID:0050930,sublingual gland adenoid cystic carcinoma,salivary gland cancer,NIL
+DOID:0050931,parotid gland adenoid cystic carcinoma,salivary gland cancer,NIL
+DOID:0050932,lung mucoepidermoid carcinoma,lung carcinoma,NIL
+DOID:0050933,ovarian serous carcinoma,ovarian carcinoma,NIL
+DOID:0050934,ovarian clear cell carcinoma,ovarian carcinoma,clear-cell ovarian carcinoma
+DOID:0050935,cervical neuroblastoma,neuroblastoma,NIL
+DOID:0050936,extra-adrenal pheochromocytoma,cancer,NIL
+DOID:0050937,retroperitoneal neuroblastoma,cancer,NIL
+DOID:0050938,breast lobular carcinoma,breast carcinoma,NIL
+DOID:0050939,uterine corpus endometrial carcinoma,uterine cancer,NIL
+DOID:0050940,endocervical adenocarcinoma,cervix carcinoma,NIL
+DOID:0060058,lymphoma,hematologic cancer,lymphoid cancer
+DOID:0060075,estrogen-receptor positive breast cancer,breast cancer,NIL
+DOID:0060076,estrogen-receptor negative breast cancer,breast cancer,NIL
+DOID:0060079,Her2-receptor positive breast cancer,breast cancer,NIL
+DOID:0060080,Her2-receptor negative breast cancer,breast cancer,NIL
+DOID:0060081,triple-receptor negative breast cancer,breast cancer,NIL
+DOID:0060103,central nervous system primitive neuroectodermal neoplasm,cancer,NIL
+DOID:0060104,cerebellar medulloblastoma,brain cancer,NIL
+DOID:0060108,brain glioma,brain cancer,lower grade glioma
+DOID:0060219,lymph node adenoid cystic carcinoma,cancer,lymph node adenoid cystic cancer
+DOID:0060318,acute promyelocytic leukemia,acute myeloid leukemia,"acute myeloblastic leukaemia type 3,acute myeloblastic leukemia type 3,acute myeloid leukaemia M3,acute myeloid leukemia M3,acute promyelocytic leukaemia"
+DOID:0060463,NUT midline carcinoma,carcinoma,nuclear protein in testis midline carcinoma
+DOID:0060473,Kabuki syndrome,NIL,"Kabuki make up syndrome,KMS,Niikawa-Kuroki syndrome"
+DOID:0060592,B-cell adult acute lymphocytic leukemia,adult acute lymphocytic leukemia,"adult B acute lymphoblastic leukaemia,adult B acute lymphoblastic leukemia,adult b-cell acute lymphoblastic leukaemia,adult b-cell acute lymphoblastic leukemia,adult b-cell lymphocytic leukaemia,adult b-cell lymphocytic leukemia,adult B-lymphoblastic leukaemia,adult B-lymphoblastic leukemia,B-cell adult acute lymphocytic leukaemia"
+DOID:0060597,atypical chronic myeloid leukemia,myeloid neoplasm,"aCML,atypical chronic myeloid leukaemia,atypical chronic myeloid leukaemia BCR-ABL1 negative,atypical chronic myeloid leukemia BCR-ABL1 negative,atypical CML"
+DOID:0060888,transient myeloproliferative syndrome,myeloproliferative neoplasm,"MST,TAM,transient abnormal myelopoiesis,transient leukemia,transient leukemia of Down syndrome,transient myeloproliferative disease"
+DOID:0060901,Waldenstroem's macroglobulinemia,B-cell lymphoma,"lymphoplasmacytic lymphoma with IgM gammopathy,Waldenstrom Macroglobulinemia"
+DOID:0070004,myeloid neoplasm,bone marrow cancer,myeloma
+DOID:0070322,childhood hepatocellular carcinoma,hepatocellular carcinoma,pediatric hepatocellular carcinoma
+DOID:0070323,childhood acute myeloid leukemia,childhood leukemia,"childhood acute myeloid leukaemia,paediatric acute myeloid leukaemia,pediatric acute myeloid leukemia"
+DOID:0070324,systemic Epstein-Barr virus positive T-cell lymphoma of childhood,childhood lymphoma,"EBV-positive T-cell lymphoproliferative disorder of childhood,systemic EBV-positive T-cell lymphoma of childhood"
+DOID:0070325,malignant childhood adrenal gland pheochromocytoma,adrenal gland pheochromocytoma,malignant pediatric adrenal gland pheochromocytoma
+DOID:0070326,spitzoid melanoma,skin melanoma,atypical spitz nevus
+DOID:0070327,melanoma in congenital melanocytic nevus,skin melanoma,"Malignant melanoma in congenital melanocytic nevus,melanocytic nevi"
+DOID:0080144,childhood acute lymphocytic leukemia,acute lymphoblastic leukemia,Childhood Acute Lymphoblastic Leukemia
+DOID:0080145,childhood T-cell acute lymphoblastic leukemia,childhood acute lymphocytic leukemia,"childhood precursor T-lymphoblastic lymphoma/leukemia,T-cell childhood acute lymphocytic leukemia"
+DOID:0080146,childhood B-cell acute lymphoblastic leukemia,childhood acute lymphocytic leukemia,NIL
+DOID:0080148,T-cell childhood lymphoblastic lymphoma,lymphoma,Childhood T lymphoblastic lymphoma
+DOID:0080164,"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",myeloid neoplasm,"Myeloid and lymphoid neoplasms with eosinophilia and abnormalities of platelet-derived growth factor receptor alpha (PDGFRA), platelet-derived growth factor receptor beta (PDGFRB), and fibroblast growth factor receptor-1 (FGFR1) are a group of hematologic neoplasms,Myeloid and Lymphoid Neoplasms with Eosinophilia and Rearrangement of PDGFRA, PDGFRB, or FGFR1, or with PCM1-JAK2"
+DOID:0080182,mixed fibrolamellar hepatocellular carcinoma,fibrolamellar carcinoma,NIL
+DOID:0080187,chronic neutrophilic leukemia,chronic leukemia,NIL
+DOID:0080188,chronic myelomonocytic leukemia,chronic leukemia,NIL
+DOID:0080190,malignant epithelioid hemangioendothelioma,cancer,NIL
+DOID:0080191,PTEN hamartoma tumor syndrome,NIL,NIL
+DOID:0080365,endometrial hyperplasia,NIL,NIL
+DOID:0080366,desmoid tumor,NIL,NIL
+DOID:0080367,chronic eosinophilic leukemia,chronic leukemia,NIL
+DOID:0080369,ovarian sex-cord stromal tumor,cancer,NIL
+DOID:0080372,epithelioid inflammatory myofibroblastic sarcoma,inflammatory myofibroblastic tumor,NIL
+DOID:0080522,thyroid gland anaplastic carcinoma,thyroid gland carcinoma,anaplastic thyroid carcinoma
+DOID:0080524,thyroid gland adenocarcinoma,thyroid gland carcinoma,NIL
+DOID:0080525,differentiated thyroid gland carcinoma,thyroid gland adenocarcinoma,NIL
+DOID:0080630,B-lymphoblastic leukemia/lymphoma,B-cell acute lymphoblastic leukemia,"B lymphoblastic leukemia/lymphoma,B-ALL,precursor B lymphoblastic lymphoma/leukemia"
+DOID:0080638,B-cell acute lymphoblastic leukemia,acute lymphoblastic leukemia,"B acute lymphoblastic leukemia,B-cell acute lymphocytic leukemia"
+DOID:0080643,B-lymphoblastic leukemia/lymphoma with BCR-ABL1,B-lymphoblastic leukemia/lymphoma,"B-ALL with BCR-ABL1,B-lymphoblastic leukemia/lymphoma with t(9;22)(q34.1;q11.2);BCR-ABL1"
+DOID:0080644,B-lymphoblastic leukemia/lymphoma MLL rearranged,B-lymphoblastic leukemia/lymphoma,"B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged,B-ALL KMT2A rearranged,B-lymphoblastic leukemia/lymphoma KMT2A rearranged,B-lymphoblastic leukemia/lymphoma with t(v;11q23.3);KMT2A rearranged"
+DOID:0080645,B-lymphoblastic leukemia/lymphoma with ETV6-RUNX1,B-lymphoblastic leukemia/lymphoma,"B-ALL with ETV6-RUNX1,B-lymphoblastic leukemia/lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1"
+DOID:0080646,B-lymphoblastic leukemia/lymphoma with hyperdiploidy,B-lymphoblastic leukemia/lymphoma,B-ALL with hyperdiploidy
+DOID:0080647,B-lymphoblastic leukemia/lymphoma with hypodiploidy,B-lymphoblastic leukemia/lymphoma,B-ALL with hypodiploidy
+DOID:0080648,B-lymphoblastic leukemia/lymphoma with IL3-IGH,B-lymphoblastic leukemia/lymphoma,"B-ALL with IL3-IGH,B-lymphoblastic leukemia/lymphoma with t(5;14)(q31.1;q32.3) IL3-IGH"
+DOID:0080649,B-lymphoblastic leukemia/lymphoma with TCF3-PBX1,B-lymphoblastic leukemia/lymphoma,"B Acute Lymphoblastic Leukemia with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1),B-ALL with TCF3-PBX1,B-lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1"
+DOID:0080650,"B-lymphoblastic leukemia/lymphoma, BCR-ABL1–like",B-lymphoblastic leukemia/lymphoma,"B lymphoblastic leukemia/lymphoma, BCR-ABL1-like,B-ALL BCR-ABL1–like"
+DOID:0080651,B-lymphoblastic leukemia/lymphoma with iAMP21,B-lymphoblastic leukemia/lymphoma,"B-ALL with iAMP21,Intrachromosomal amplification of chromosome 21 (iAMP21)"
+DOID:0080684,"diffuse midline glioma, H3 K27M-mutant",histone mutated tumor,diffuse intrinsic pontine glioma
+DOID:0080702,medulloblastoma WNT activated,medulloblastoma,NIL
+DOID:0080703,medulloblastoma SHH activated,medulloblastoma,NIL
+DOID:0080704,medulloblastoma SHH activated and TP53 mutant,medulloblastoma SHH activated,NIL
+DOID:0080705,medulloblastoma SHH activated and TP53 wild-type,medulloblastoma SHH activated,Medulloblastoma SHH-Activated TP53-Wildtype
+DOID:0080706,medulloblastoma non-WNT/non-SHH,medulloblastoma,NIL
+DOID:0080707,medulloblastoma non-WNT/non-SHH group 3,medulloblastoma non-WNT/non-SHH,NIL
+DOID:0080708,medulloblastoma non-WNT/non-SHH group 4,medulloblastoma non-WNT/non-SHH,NIL
+DOID:0080794,childhood acute megakaryoblastic leukemia,acute myeloid leukemia,pediatric non-Down syndrome acute megakaryoblastic leukemia
+DOID:0080795,acute basophilic leukemia,acute myeloid leukemia,NIL
+DOID:0080796,core binding factor acute myeloid leukemia,acute myeloid leukemia,NIL
+DOID:0080797,nasal type extranodal NK/T-cell lymphoma,mature T-cell and NK-cell lymphoma,NIL
+DOID:0080798,myeloid leukemia associated with Down Syndrome,acute myeloid leukemia,NIL
+DOID:0080799,sinonasal undifferentiated carcinoma,cancer,NIL
+DOID:0080800,salivary gland mucinous adenocarcinoma,salivary gland carcinoma,NIL
+DOID:0080808,mammary analogue secretory carcinoma,salivary gland carcinoma,NIL
+DOID:0080829,low grade glioma,NIL,benign glioma
+DOID:0080830,childhood low-grade glioma,low grade glioma,pediatric low-grade glioma
+DOID:0080854,anaplastic pleomorphic xanthoastrocytoma,malignant astrocytoma,NIL
+DOID:0080875,IDH-mutant anaplastic astrocytoma,anaplastic astrocytoma,NIL
+DOID:0080876,IDH-wildtype anaplastic astrocytoma,anaplastic astrocytoma,NIL
+DOID:0080877,IDH-mutant glioblastoma,glioblastoma,NIL
+DOID:0080878,IDH-wildtype glioblastoma,glioblastoma,NIL
+DOID:0080879,histone mutated tumor,high grade glioma,histone mutated tumour
+DOID:0080880,"diffuse glioma, H3 G34 mutant",histone mutated tumor,NIL
+DOID:0080891,YAP1-MAMLD1 fusion-positive supratentorial ependymoma,high grade ependymoma,NIL
+DOID:0080892,RELA fusion-positive ependymoma,high grade ependymoma,"C11orf95 fusion-positive supratentorial ependymoma,Supratentorial C11ORF95-RELA fused ependymoma"
+DOID:0080896,pericytoma with t(7;12),cancer,NIL
+DOID:0080897,solitary fibrous tumor/hemangiopericytoma,cancer,NIL
+DOID:0080996,diffuse large B-cell lymphoma activated B-cell type,diffuse large B-cell lymphoma,DLBCL ABC type
+DOID:0080997,diffuse large B-cell lymphoma germinal center B-cell type,diffuse large B-cell lymphoma,NIL
+DOID:0081063,DICER1 syndrome,NIL,"Pleuro-pulmonary blastoma familial tumor susceptibility,Pleuro-pulmonary blastoma familial tumor susceptibility syndrome,Pleuropulmonary blastoma familial tumor susceptibility syndrome,PPB familial tumor susceptibility syndrome"
+DOID:10047,nodular malignant melanoma,skin melanoma,nodular melanoma
+DOID:10283,prostate cancer,cancer,"hereditary prostate cancer,malignant tumor of the prostate,NGP - new growth of prostate,prostate cancer, familial,prostate neoplasm,prostatic cancer,prostatic neoplasm,tumor of the prostate"
+DOID:10286,prostate carcinoma,prostate cancer,"cancer of prostate,carcinoma of prostate"
+DOID:1036,chronic leukemia,leukemia,"adult chronic leukemia"" RELATED,CLL"" RELATED,CML"" RELATED"
+DOID:1037,lymphoid leukemia,leukemia,"lymphoblastic leukaemia,lymphoblastic leukemia,lymphocytic leukaemia"
+DOID:1039,prolymphocytic leukemia,chronic lymphocytic leukemia,"PLL,Prolymphocytic leukaemia"
+DOID:1040,chronic lymphocytic leukemia,lymphoid leukemia,"B-cell chronic lymphocytic leukaemia,B-cell chronic lymphocytic leukemia,B-cell chronic lymphoid leukemia"" RELATED,chronic lymphatic leukaemia,chronic lymphatic leukemia,chronic lymphocytic leukaemia,CLL,lymphoplasmacytic leukaemia,lymphoplasmacytic leukemia"
+DOID:10534,stomach cancer,gastrointestinal system cancer,"gastric cancer,gastric neoplasm"
+DOID:10660,mediastinum neuroblastoma,cancer,neuroblastoma of mediastinum
+DOID:11054,urinary bladder cancer,cancer,"bladder cancer,tumor of the bladder"
+DOID:1107,esophageal carcinoma,esophageal cancer,"cancer of esophagus,cancer of oesophagus,carcinoma OF ESOPHAGUS,carcinoma of esophagus,carcinoma of oesophagus"
+DOID:1115,sarcoma,cancer,"connective and soft tissue neoplasm,tumor of soft tissue and skeleton"
+DOID:11239,appendix cancer,gastrointestinal system cancer,"cancer of the appendix,malignant neoplasm of appendix vermiformis,malignant tumor of appendix,malignant tumor of the appendix"
+DOID:11934,head and neck cancer,cancer,"head and neck neoplasm,head and neck tumours,head/neck neoplasm,tumor of head and neck"
+DOID:120,female reproductive organ cancer,cancer,"female reproductive cancer,malignant Gynecologic tumor,malignant neoplasm of female genital organ"
+DOID:1240,leukemia,hematologic cancer,NIL
+DOID:12603,acute leukemia,lymphoid leukemia,"Stem cell leukaemia,Stem cell Leukemia"
+DOID:12689,acoustic neuroma,NIL,"Vestibular Neurilemmoma,Vestibular schwannoma"
+DOID:1319,brain cancer,cancer,"adult brain tumor,adult malignant brain neoplasm,brain neoplasm,brain neoplasm, adult,BT - Brain tumour,malignant brain tumour,malignant primary brain neoplasm,malignant primary brain tumor,malignant tumor of adult brain,malignant tumor of Brain,neoplasm of brain,primary brain neoplasm,primary brain tumor,primary malignant neoplasm of brain,tumor of the Brain"
+DOID:1324,lung cancer,cancer,"lung neoplasm"" RELATED"
+DOID:13515,tuberous sclerosis,NIL,"Bourneville's disease,cerebral sclerosis,Epiloia,Tuberose sclerosis,Tuberous sclerosis syndrome"
+DOID:1380,endometrial cancer,uterine cancer,"endometrial Ca,endometrial neoplasm,malignant endometrial neoplasm,malignant neoplasm of endometrium,neoplasm of endometrium,primary malignant neoplasm of endometrium,tumor of Endometrium"
+DOID:14145,malignant anus melanoma,gastrointestinal system cancer,"anal melanoma,malignant melanoma of anus"
+DOID:1520,colon carcinoma,colon cancer,"carcinoma of colon,Colonic carcinoma"
+DOID:1542,head and neck carcinoma,head and neck cancer,"carcinoma of neck"" RELATED,carcinoma of the neck"
+DOID:1612,breast cancer,cancer,"breast tumor,malignant neoplasm of breast,malignant tumor of the breast,mammary cancer,mammary neoplasm"" RELATED,mammary tumor,primary breast cancer"
+DOID:162,cancer,NIL,"malignant neoplasm,malignant tumor,primary cancer"
+DOID:1664,pineoblastoma,cancer,Pineal PNET
+DOID:169,neuroendocrine tumor,cancer,neuroendocrine neoplasm
+DOID:1749,squamous cell carcinoma,carcinoma,"epidermoid carcinoma,malignant squamous cell tumor,squamous carcinoma,squamous cell cancer,squamous cell Epithelioma"
+DOID:1751,malignant conjunctival melanoma,cancer,"Conjunctival melanoma,malignant melanoma of conjunctiva"
+DOID:1752,ocular melanoma,cancer,"eye melanoma,intraocular melanoma,melanoma of eye"
+DOID:1781,thyroid gland cancer,cancer,"malignant neoplasm of thyroid gland,malignant tumour of thyroid gland,neoplasm of thyroid gland,Thyroid gland neoplasm,thyroid neoplasm"
+DOID:1788,peritoneal mesothelioma,cancer,"Advanced malignant Mesothelioma of Peritoneum,advanced malignant peritoneal mesothelioma,malignant mesothelioma of peritoneum"
+DOID:1790,malignant mesothelioma,cancer,"advanced malignant mesothelioma,asbestos-related malignant mesothelioma,Diffuse malignant Mesothelioma,malignant tumor of Mesothelium"
+DOID:1793,pancreatic cancer,cancer,"Ca body of pancreas,Ca head of pancreas,Ca tail of pancreas,malignant neoplasm of body of pancreas,malignant neoplasm of head of pancreas,malignant neoplasm of tail of pancreas,pancreas neoplasm,pancreatic neoplasm,pancreatic tumor"
+DOID:1795,malignant exocrine pancreas neoplasm,pancreatic cancer,"malignant neoplasm of the Exocrine pancreas,malignant tumor of exocrine pancreas,malignant tumour of exocrine pancreas"
+DOID:1798,pancreatic endocrine carcinoma,pancreatic cancer,"carcinoma of endocrine pancreas,Islet cell carcinoma,malignant neoplasm of islets of Langerhans,pancreatic neuroendocrine carcinoma"
+DOID:1901,vagina sarcoma,female reproductive organ cancer,sarcoma of the vagina
+DOID:1909,melanoma,cancer,"malignant melanoma,Naevocarcinoma"
+DOID:1967,leiomyosarcoma,cancer,Leiomyosarcomas
+DOID:1970,fallopian tube carcinosarcoma,female reproductive organ cancer,"fallopian tube malignant mixed mesodermal (mullerian) tumor,fallopian tube malignant mixed Mullerian tumor"
+DOID:1993,rectum cancer,colorectal cancer,"cancer of rectum"" RELATED,carcinoma of rectum,carcinoma of the rectum,malignant neoplasm of rectum,malignant Rectal tumor,malignant rectum tumor,malignant tumor of rectum,rectal cancer"
+DOID:1996,rectum adenocarcinoma,rectum cancer,Rectal adenocarcinoma
+DOID:2101,vulva squamous cell carcinoma,female reproductive organ cancer,"squamous cell carcinoma of vulva"" RELATED,Vulvar Epidermoid carcinoma,vulvar squamous cell carcinoma"
+DOID:2129,atypical teratoid rhabdoid tumor,brain cancer,"AT/RT"" RELATED,atypical teratoid rhabdoid tumour,Atypical teratoid/rhabdoid tumor,Atypical teratoid/rhabdoid tumour,Rhabdoid tumor of the CNS,rhabdoid tumor predisposition syndrome"" RELATED,Rhabdoid tumour of the CNS"
+DOID:2152,ovary epithelial cancer,ovarian cancer,Ovarian Surface epithelial-Stromal tumor
+DOID:2154,nephroblastoma,kidney cancer,"adult nephroblastoma,Wilms' tumor"" RELATED"
+DOID:219,colon cancer,colorectal cancer,NIL
+DOID:2224,essential thrombocythemia,myeloproliferative neoplasm,"Essential thrombocythaemia,familial thrombocytosis,hemorrhagic thrombocythemia,hereditary thrombocythemia,primary Thrombocytosis"
+DOID:2226,myeloproliferative neoplasm,myeloid neoplasm,"chronic myeloproliferative disease,CMPD,CMPD, U"
+DOID:234,colon adenocarcinoma,colon carcinoma,"adenocarcinoma of colon,adenocarcinoma of the colon"" RELATED,Colonic adenocarcinoma"
+DOID:2394,ovarian cancer,female reproductive organ cancer,"malignant Ovarian tumor,malignant tumour of ovary,ovarian neoplasm,ovary neoplasm,primary ovarian cancer,tumor of the Ovary"
+DOID:2431,glomus tumor,cancer,"Glomus neoplasm,Glomus tumour"
+DOID:2513,basal cell carcinoma,cancer,"Basal cell cancer,Basal cell carcinoma of skin,Basal cell neoplasm,Basal cell tumor,Epithelioma basal cell,malignant Basal cell neoplasm,malignant basal cell tumor,Rodent ulcer"
+DOID:2526,prostate adenocarcinoma,prostate carcinoma,NIL
+DOID:2531,hematologic cancer,cancer,"blood cancer,Hematologic malignancy,Hematologic neoplasm,Hematological tumors,hematopoietic and lymphoid system tumor,hematopoietic cancer,hematopoietic neoplasm,hematopoietic tumors,malignant hematopoietic neoplasm"
+DOID:2571,Langerhans-cell histiocytosis,NIL,"Histiocytosis X,Langerhan's cell histiocytosis,Langerhans cell granulomatosis,Letterer-Siwe disease,Letterer-Siwe disease involving intra-abdominal lymph nodes,Letterer-Siwe disease involving intrapelvic lymph nodes,Letterer-Siwe disease involving intrathoracic lymph nodes,Letterer-Siwe disease involving lymph nodes of axilla and upper limb,Letterer-Siwe disease involving lymph nodes of head, face and neck,Letterer-Siwe disease involving lymph nodes of head, face, and neck,Letterer-Siwe disease involving lymph nodes of inguinal region and lower limb,Letterer-Siwe disease involving lymph nodes of multiple sites,Letterer-Siwe disease involving spleen,Letterer-Siwe disease of intra-abdominal lymph nodes,Letterer-Siwe disease of intrapelvic lymph nodes,Letterer-Siwe disease of intrathoracic lymph nodes,Letterer-Siwe disease of lymph nodes of axilla and upper limb,Letterer-Siwe disease of lymph nodes of axilla and/or upper limb,Letterer-Siwe disease of lymph nodes of head, face and neck,Letterer-Siwe disease of lymph nodes of head, face and/or neck,Letterer-Siwe disease of lymph nodes of inguinal region amd/or lower limb,Letterer-Siwe disease of lymph nodes of inguinal region and lower limb,Letterer-Siwe disease of lymph nodes of inguinal region and/or lower limb,Letterer-Siwe disease of lymph nodes of multiple sites,Letterer-Siwe disease of spleen"
+DOID:2600,laryngeal carcinoma,cancer,"cancer of Larynx,cancer of larynx,carcinoma of larynx"
+DOID:263,kidney cancer,cancer,"malignant neoplasm of kidney except pelvis,malignant tumour of kidney,renal cancer"
+DOID:264,hemangiopericytoma,cancer,"Haemangiopericytic meningioma,hemangiopericytoma, malignant,malignant hemangiopericytoma"
+DOID:2645,benign mesothelioma,NIL,benign tumor of Mesothelium
+DOID:2649,chondroblastoma,NIL,Chondroblastoma of bone
+DOID:2671,transitional cell carcinoma,carcinoma,"transitional carcinoma,transitional cell neoplasm"" RELATED,transitional cell tumor,urothelial cell carcinoma"
+DOID:285,hairy cell leukemia,chronic lymphocytic leukemia,NIL
+DOID:2870,endometrial adenocarcinoma,endometrial carcinoma,"adenocarcinoma of endometrium,adenocarcinoma of the Endometrium,adenocarcinoma of uterus,endometrial adenoacanthoma,endometrial endometrioid adenocarcinoma,endometrial endometrioid adenocarcinoma with squamous differentiation,endometrioid adenoma or carcinoma,endometrioid adenomas and carcinomas,endometrioid carcinoma of Endometrium"
+DOID:2871,endometrial carcinoma,endometrial cancer,"carcinoma of the Endometrium,endometrioid carcinoma,endometrioid carcinoma of female Reproductive system"
+DOID:2876,laryngeal squamous cell carcinoma,laryngeal carcinoma,"Epidermoid carcinoma of the Larynx,squamous cell carcinoma of larynx"
+DOID:2893,cervix carcinoma,cervical cancer,"cancer of cervix,carcinoma cervix uteri,carcinoma of cervix,carcinoma of the Cervix Uteri"
+DOID:2997,Sertoli-Leydig cell tumor,cancer,NIL
+DOID:2999,granulosa cell tumor,cancer,"Granulosa cell neoplasm,Granulosa cell tumor, adult type,Granulosa cell tumour, sarcomatoid,malignant granulosa cell neoplasm"
+DOID:3007,breast ductal carcinoma,breast carcinoma,duct carcinoma
+DOID:3029,colon mucinous adenocarcinoma,colon adenocarcinoma,Colonic mucinous adenocarcinoma
+DOID:3030,mucinous adenocarcinoma,carcinoma,"Mucin-producing adenocarcinoma,mucin-producing adenocarcinoma,Mucin-Secreting adenocarcinoma,Mucin-Secreting carcinoma,Mucous carcinoma,Pseudomyxoma peritonei with unknown primary site"
+DOID:3033,colon signet ring adenocarcinoma,colon adenocarcinoma,Colonic Signet Ring adenocarcinoma
+DOID:3039,cecum adenocarcinoma,gastrointestinal system cancer,Cecal adenocarcinoma
+DOID:305,carcinoma,cancer,"epithelial cancer,epithelioma,malignant Epithelioma"
+DOID:3068,glioblastoma,malignant astrocytoma,"adult glioblastoma multiforme,GBM,glioblastoma multiforme,grade IV adult Astrocytic tumor,primary glioblastoma multiforme,spongioblastoma multiforme"
+DOID:3069,malignant astrocytoma,high grade glioma,"Astrocytic tumor,astrocytoma of brain,astrocytoma of Cerebrum,astroglioma,cerebral astrocytoma"
+DOID:3070,high grade glioma,cancer,"glial cell tumor,glioma, malignant,malignant glioma,malignant Neuroglial tumor,Neuroglial tumor"
+DOID:3073,brain glioblastoma multiforme,brain glioma,"brain Glioblastoma,Glioblastoma multiforme of brain"
+DOID:3078,anaplastic astrocytoma,malignant astrocytoma,"grade III Astrocytic tumor,grade III astrocytoma"
+DOID:3112,papillary adenocarcinoma,carcinoma,"Infiltrating and papillary adenocarcinoma,infiltrating papillary adenocarcinoma,Papillary adenocarcinoma"
+DOID:3119,gastrointestinal system cancer,cancer,"digestive system cancer,gastrointestinal tract cancer,GI tumor"
+DOID:314,tenosynovial giant cell tumor,NIL,"fibrous histiocytoma of tendon sheath,Giant cell tumor of tendon sheath,Giant cell tumor of Tenosynovium,Giant cell tumour of tendon sheath,Giant cell tumour of Tenosynovium,tenosynovial giant cell tumour"
+DOID:3151,skin squamous cell carcinoma,cancer,"Epidermoid skin carcinoma,squamous cell carcinoma of skin"" RELATED"
+DOID:3181,oligodendroglioma,high grade glioma,"oligodendroglial neoplasm,oligodendroglial tumor"
+DOID:3183,childhood oligodendroglioma,oligodendroglioma,pediatric Oligodendroglioma
+DOID:3187,brain oligodendroglioma,brain glioma,"brain Oligodendroglioma,Oligodendroglioma of brain"
+DOID:3193,peripheral nerve sheath neoplasm,cancer,"neoplasm of the nerve Sheath,nerve sheath tumour"
+DOID:3204,neurilemmomatosis,NIL,Schwannomatosis
+DOID:3247,rhabdomyosarcoma,cancer,NIL
+DOID:3260,spindle cell rhabdomyosarcoma,rhabdomyosarcoma,NIL
+DOID:3275,thymoma,cancer,NIL
+DOID:3284,thymic carcinoma,cancer,"malignant Thymoma,Thymic carcinoma,Thymoma, malignant"
+DOID:3302,chordoma,cancer,notochordoma
+DOID:3347,osteosarcoma,cancer,"bone tissue neoplasm,Osteogenic sarcoma,osteoid sarcoma,Skeletal sarcoma"
+DOID:3361,childhood osteosarcoma,osteosarcoma,pediatric osteosarcoma
+DOID:3368,Ewing sarcoma of bone,Ewing sarcoma,"bone Ewing sarcoma,bone Ewing's sarcoma"" RELATED,bone localized Ewing sarcoma,bone localized Ewing's sarcoma,Ewing's sarcoma of bone"" RELATED,Ewing's sarcoma/bone peripheral primitive neuroectodermal tumor,localized Skeletal Ewing's sarcoma"
+DOID:3369,Ewing sarcoma,cancer,"Ewing's family localized tumor,Ewing's sarcoma/peripheral primitive neuroectodermal tumor,Ewing's tumor,Ewings sarcoma,Ewings sarcoma-primitive neuroectodermal tumor,localized Ewing sarcoma,localized Ewing's sarcoma,localized Ewing's sarcoma/peripheral primitive neuroectodermal tumor,localized Ewing's tumor,localized peripheral primitive neuroectodermal tumor,peripheral primitive neuroectodermal tumor,PNET of Thoracopulmonary Region"
+DOID:3371,chondrosarcoma,cancer,"Cartilaginous cancer,chondrosarcoma of bone,primary chondrosarcoma of the bone"
+DOID:3376,bone osteosarcoma,osteosarcoma,"Osteosarcoma of bone,primary Osteosarcoma of bone"
+DOID:3382,liposarcoma,cancer,lipomatous cancer
+DOID:3444,scrotum Paget's disease,cancer,"Paget's disease of scrotum,scrotum Paget disease"
+DOID:3447,anus adenocarcinoma,gastrointestinal system cancer,"adenocarcinoma of anus,adenocarcinoma of the anus"" RELATED"
+DOID:3449,penis carcinoma,cancer,"carcinoma of penis,Penile carcinoma"
+DOID:3458,breast adenocarcinoma,breast carcinoma,"adenocarcinoma of breast"" RELATED,Mammary adenocarcinoma"
+DOID:3459,breast carcinoma,breast cancer,"carcinoma of breast,Mammary carcinoma"
+DOID:349,systemic mastocytosis,NIL,"SMCD - systemic mast cell disease,systemic tissue mast cell disease"
+DOID:3498,pancreatic ductal adenocarcinoma,pancreatic adenocarcinoma,ductal adenocarcinoma of the pancreas
+DOID:3507,dermatofibrosarcoma protuberans,cancer,NIL
+DOID:3520,childhood fibrosarcoma,cancer,pediatric fibrosarcoma
+DOID:3545,childhood choroid plexus cancer,brain cancer,"childhood choroid plexus neoplasm"" RELATED"
+DOID:3559,pseudomyxoma peritonei,appendix cancer,"mucinous Ascites,Pseudomyxoma peritonei"
+DOID:3565,meningioma,cancer,"meningeal neoplasm,meningothelial cell tumor,neoplasm of the meninges,primary Meningeal tumor"
+DOID:3571,liver cancer,gastrointestinal system cancer,"Ca liver - primary,ca liver - primary,hepatic cancer,hepatic neoplasm,malignant hepato-biliary neoplasm,malignant neoplasm of liver,malignant neoplasm of liver, not specified as primary or secondary,malignant neoplasm of liver, primary,malignant tumor of liver,neoplasm of liver,non-resectable primary hepatic malignant neoplasm,primary liver cancer,primary malignant neoplasm of Liver,primary malignant neoplasm of liver,Resectable malignant neoplasm of Liver,resectable malignant neoplasm of the liver"
+DOID:3587,pancreatic ductal carcinoma,pancreatic carcinoma,"malignant neoplasm of duct of Wirsung,pancreatic duct cancer"
+DOID:3605,ovarian cystadenocarcinoma,ovarian carcinoma,"cystadenocarcinoma of ovary,cystadenocarcinoma of the Ovary"
+DOID:363,uterine cancer,female reproductive organ cancer,"CA - cancer of uterus,malignant neoplasm of uterus,malignant uterine tumor,neoplasm of uterus,Tumour of uterus,uterine tumor,uterus neoplasm"
+DOID:3637,childhood spinal cord tumor,cancer,childhood Spinal Cord neoplasm
+DOID:3664,mast cell neoplasm,hematologic cancer,"Mast cell Proliferative disease,mast cell tumor,mastocytoma"
+DOID:3672,rhabdoid cancer,childhood kidney cancer,"malignant rhabdoid tumour,Rhabdoid sarcoma,rhabdoid tumor"" RELATED"
+DOID:3675,childhood kidney cancer,kidney cancer,pediatric renal tumor
+DOID:3702,cervical adenocarcinoma,cervix carcinoma,"adenocarcinoma cervix uteri,adenocarcinoma of cervix,adenocarcinoma of the uterine Cervix"
+DOID:3717,gastric adenocarcinoma,stomach carcinoma,"adenocarcinoma of stomach,stomach adenocarcinoma"
+DOID:3744,cervical squamous cell carcinoma,cervix carcinoma,"squamous cell carcinoma of cervix,squamous cell carcinoma of the Cervix Uteri"
+DOID:3748,esophagus squamous cell carcinoma,esophageal carcinoma,"oesophagus squamous cell carcinoma,SCC of esophagus,SCC of oesophagus"
+DOID:3857,large cell medulloblastoma,medulloblastoma,large cell Medulloblastoma
+DOID:3869,childhood medulloblastoma,medulloblastoma,pediatric Medulloblastoma
+DOID:3870,childhood central nervous system primitive neuroectodermal neoplasm,central nervous system primitive neuroectodermal neoplasm,pediatric CNS PNET
+DOID:3904,bronchus carcinoma,cancer,BC - Bronchogenic carcinoma
+DOID:3905,lung carcinoma,lung cancer,"cancer of lung,carcinoma of lung"" RELATED"
+DOID:3907,lung squamous cell carcinoma,lung non-small cell carcinoma,"Epidermoid cell carcinoma of the lung,squamous cell carcinoma of lung"" RELATED"
+DOID:3908,lung non-small cell carcinoma,lung carcinoma,"Non-small cell lung cancer,non-small cell lung carcinoma,NSCLC"
+DOID:3910,lung adenocarcinoma,lung non-small cell carcinoma,"adenocarcinoma of lung"" RELATED,bronchogenic lung adenocarcinoma,nonsmall cell adenocarcinoma"
+DOID:3948,adrenocortical carcinoma,cancer,"Adrenal cortical carcinoma,carcinoma of the Adrenal cortex"
+DOID:3950,adrenal carcinoma,cancer,carcinoma of the Adrenal gland
+DOID:3962,thyroid gland follicular carcinoma,differentiated thyroid gland carcinoma,"Follicular adenocarcinoma,Follicular adenocarcinoma, well differentiated,Follicular carcinoma,follicular thyroid carcinoma,Thyroid adenocarcinoma"
+DOID:3963,thyroid gland carcinoma,thyroid gland cancer,"head and neck cancer, Thyroid"
+DOID:3965,Merkel cell carcinoma,cancer,"Trabecular adenocarcinoma,trabecular carcinoma"
+DOID:3968,papillary follicular thyroid adenocarcinoma,thyroid gland papillary carcinoma,NIL
+DOID:3969,thyroid gland papillary carcinoma,differentiated thyroid gland carcinoma,Papillary carcinoma of the Thyroid gland
+DOID:3973,thyroid gland medullary carcinoma,thyroid gland carcinoma,"Medullary carcinoma of the Thyroid gland,Medullary thyroid carcinoma,medullary thyroid carcinoma,Ultimobranchial thyroid tumor,Ultimobranchial thyroid tumour"
+DOID:4001,ovarian carcinoma,ovary epithelial cancer,Ovarian carcinoma
+DOID:4006,bladder urothelial carcinoma,bladder carcinoma,"bladder transitional cell carcinoma,transitional cell carcinoma of bladder,urinary bladder urothelial carcinoma,urothelial bladder carcinoma"
+DOID:4007,bladder carcinoma,urinary bladder cancer,carcinoma of urinary bladder
+DOID:4015,sarcomatoid carcinoma,carcinoma,spindle cell carcinoma
+DOID:4051,alveolar rhabdomyosarcoma,rhabdomyosarcoma,"alveolar childhood rhabdomyosarcoma,Alveolar rhabdomyosarcoma"
+DOID:4074,pancreatic adenocarcinoma,pancreatic carcinoma,"adenocarcinoma of the pancreas"" RELATED,pancreas adenocarcinoma"
+DOID:4206,childhood brain stem neoplasm,brain cancer,pediatric tumor of Brainstem
+DOID:4207,childhood infratentorial neoplasm,brain cancer,pediatric Infratentorial tumor
+DOID:4226,endometrial stromal sarcoma,endometrial cancer,"endometrial stromal sarcoma, high grade,ESS,Undifferentiated endometrial sarcoma"
+DOID:4227,uterine corpus endometrial stromal sarcoma,uterine cancer,uterine corpus endometrial stromal tumor
+DOID:4231,histiocytoma,NIL,NIL
+DOID:4233,clear cell sarcoma,sarcoma,"adult soft part clear cell sarcoma,Clear cell sarcoma,Clear cell sarcoma of soft Parts,malignant melanoma of soft parts"" RELATED,malignant melanoma of soft tissues,melanoma, malignant, of soft parts"
+DOID:4235,spindle cell sarcoma,sarcoma,NIL
+DOID:4236,carcinosarcoma,cancer,"malignant mixed mesodermal (mullerian) tumor,malignant mixed Mullerian tumor,Mesodermal mixed tumor,mesodermal mixed tumor,mixed Mesodermal (mullerian) tumor,MMMT,mullerian mixed tumor"
+DOID:4305,bone giant cell tumor,NIL,"bone giant cell tumour,giant cell myeloma"" RELATED,Giant cell neoplasm of bone,Giant cell tumor of bone,Giant cell tumour of bone,osteoclastoma"" RELATED"
+DOID:4362,cervical cancer,female reproductive organ cancer,"cervical neoplasm,cervix cancer,cervix uteri cancer,neoplasm of uterine cervix,tumor of the Cervix Uteri,uterine cervical neoplasm"
+DOID:4450,renal cell carcinoma,renal carcinoma,"adenocarcinoma of kidney,hypernephroma,RCC"
+DOID:4451,renal carcinoma,kidney cancer,"carcinoma of kidney,kidney carcinoma"
+DOID:4454,childhood kidney cell carcinoma,renal cell carcinoma,pediatric renal cell carcinoma
+DOID:4455,hereditary renal cell carcinoma,renal cell carcinoma,NIL
+DOID:4465,papillary renal cell carcinoma,renal cell carcinoma,"Chromophil carcinoma of kidney,papillary kidney carcinoma,Papillary renal cell carcinoma,sporadic papillary renal cell carcinoma"
+DOID:4467,clear cell renal cell carcinoma,renal cell carcinoma,"Clear cell carcinoma of kidney,clear cell kidney carcinoma,Clear-cell metastatic renal cell carcinoma"" RELATED,Clear-cell metastatic renal cell carcinoma"" RELATED [MESH:C538445,conventional (Clear cell) renal cell carcinoma,conventional renal cell carcinoma,renal clear cell carcinoma"
+DOID:4471,chromophobe renal cell carcinoma,renal cell carcinoma,"chromophobe adenocarcinoma,Chromophobe carcinoma of kidney,kidney chromophobe,renal cell carcinoma, chromophobe cell"
+DOID:4505,childhood angiosarcoma,angiosarcoma,"paediatric angiosarcoma,paediatric hemangiosarcoma,pediatric angiosarcoma,pediatric hemangiosarcoma"
+DOID:4511,breast angiosarcoma,breast cancer,hemangiosarcoma of the breast
+DOID:4520,cervical endometrial stromal sarcoma,cervical cancer,endometrial stromal sarcoma of the cervix
+DOID:4545,mesenchymal chondrosarcoma,chondrosarcoma,NIL
+DOID:4546,childhood mesenchymal chondrosarcoma,mesenchymal chondrosarcoma,pediatric mesenchymal chondrosarcoma
+DOID:4556,lung large cell carcinoma,lung non-small cell carcinoma,"large cell carcinoma of lung,large cell lung carcinoma"
+DOID:4593,childhood meningioma,meningioma,pediatric meningioma
+DOID:4607,biliary tract cancer,gastrointestinal system cancer,malignant tumour of biliary tract
+DOID:4690,childhood mediastinal neurogenic tumor,cancer,"childhood mediastinal neurogenic tumour,paediatric neurogenic tumour of mediastinum,pediatric neurogenic tumor of mediastinum"
+DOID:4743,mixed testicular germ cell tumor,testicular germ cell cancer,"mixed germ cell tumor of testis,mixed germ cell tumour of testis,mixed testicular germ cell tumour"
+DOID:4769,pleuropulmonary blastoma,lung cancer,Pleuropulmonary blastoma
+DOID:4829,adenosquamous lung carcinoma,lung cancer,Adenosquamous lung carcinoma
+DOID:4845,pilomyxoid astrocytoma,pilocytic astrocytoma,NIL
+DOID:4851,pilocytic astrocytoma,childhood low-grade glioma,"grade I Astrocytic tumor,Piloid astrocytoma"
+DOID:4852,pleomorphic xanthoastrocytoma,low grade glioma,Pleomorphic Xantho-astrocytoma
+DOID:4857,diffuse astrocytoma,low grade glioma,"Diffuse astrocytoma, low grade,WHO grade II astrocytoma"
+DOID:4866,salivary gland adenoid cystic carcinoma,salivary gland carcinoma,Cylindroma
+DOID:4896,bile duct adenocarcinoma,biliary tract cancer,NIL
+DOID:4905,pancreatic carcinoma,pancreatic cancer,"carcinoma of pancreas,exocrine cancer"" RELATED,Exocrine pancreas carcinoma,Pancreatic carcinoma, familial"" RELATED [MESH:C535837,Pancreatic carcinoma, familial"" RELATED"
+DOID:4914,esophagus adenocarcinoma,esophageal carcinoma,Oesophageal adenocarcinoma
+DOID:4922,breast secretory carcinoma,breast adenocarcinoma,"juvenile breast carcinoma,Juvenile carcinoma of the breast,juvenile carcinoma of the breast"" RELATED,Juvenile Secretory carcinoma of breast"
+DOID:4926,bronchiolo-alveolar adenocarcinoma,lung adenocarcinoma,"Bronchioalveolar lung carcinoma,Bronchioloalveolar carcinoma,Minimally Invasive Lung Adenocarcinoma"
+DOID:4928,intrahepatic cholangiocarcinoma,cholangiocarcinoma,"Intrahepatic bile duct carcinoma,peripheral Cholangiocarcinoma"
+DOID:4932,ampulla of Vater carcinoma,gastrointestinal system cancer,"ampulla of vater cancer,ampullary carcinoma,carcinoma of ampulla of vater"
+DOID:4939,ureter carcinoma,cancer,ureteral carcinoma
+DOID:4944,gastroesophageal junction adenocarcinoma,gastrointestinal system cancer,"adenocarcinoma of Cardioesophageal junction,adenocarcinoma of gastroesophageal junction"" RELATED"
+DOID:4947,cholangiocarcinoma,bile duct adenocarcinoma,"adult primary Cholangiocarcinoma,adult primary cholangiocellular carcinoma,cholangiosarcoma"
+DOID:4960,bone marrow cancer,hematologic cancer,"bone marrow neoplasm,bone Marrow tumor,malignant bone Marrow tumor,malignant neoplasm of bone marrow"
+DOID:4971,myelofibrosis,myeloid neoplasm,"Agnogenic myeloid metaplasia,Aleukemic myelosis,bone Marrow Fibrosis,Megakaryocytic myelosclerosis,myelosclerosis,primary myelofibrosis"
+DOID:5015,fibrolamellar carcinoma,hepatocellular carcinoma,"Fibrolamellar hepatocellular carcinoma,Hepatocellular carcinoma, fibrolamellar,Oncocytic Hepatocellular tumor"
+DOID:5041,esophageal cancer,gastrointestinal system cancer,"Ca lower third oesophagus,Ca middle third oesophagus,esophagus cancer,malignant neoplasm of distal third of esophagus,malignant neoplasm of lower third of oesophagus,malignant neoplasm of middle third of oesophagus,malignant neoplasm of proximal third of esophagus,malignant neoplasm of upper third esophagus,malignant tumor of abdominal esophagus,malignant tumor of Distal Third of esophagus,malignant tumor of Proximal Third of esophagus,malignant tumor of the middle Third of the esophagus"
+DOID:5059,childhood cerebellar neoplasm,brain cancer,pediatric tumor of Cerebellum
+DOID:5074,high grade ependymoma,high grade glioma,"Ependymal neoplasm,ependymal tumors,malignant ependymoma"
+DOID:5078,ganglioglioma,NIL,"adult ganglioglioma,childhood ganglioglioma,CNS ganglioglioma"
+DOID:5151,plexiform neurofibroma,neurofibroma,NIL
+DOID:5170,vaginal endometrial stromal sarcoma,vagina sarcoma,NIL
+DOID:5176,renal Wilms' tumor,nephroblastoma,"Nonanaplastic renal Wilm's tumor,Nonanaplastic renal Wilm's tumour,nonanaplastic renal wilms tumor"" RELATED,renal Wilms' tumour"
+DOID:5342,childhood endodermal sinus tumor,cancer,"childhood endodermal sinus neoplasm,childhood endodermal sinus tumour,paediatric Yolk Sac tumour,pediatric Yolk Sac tumor"
+DOID:5363,myxoid liposarcoma,liposarcoma,Myxoid/round cell liposarcoma
+DOID:5391,bronchus adenoma,NIL,"adenoma of the bronchus"" RELATED,Bronchial adenoma"
+DOID:5409,lung small cell carcinoma,lung carcinoma,NIL
+DOID:5485,synovial sarcoma,cancer,NIL
+DOID:5503,spinal cord ependymoma,high grade ependymoma,Ependymal neoplasm of the Spinal Cord
+DOID:5509,childhood ependymoma,high grade ependymoma,NIL
+DOID:5515,nasal cavity squamous cell carcinoma,cancer,"squamous cell carcinoma of nasal cavity"" RELATED,squamous cell carcinoma of the nasal cavity"
+DOID:5517,stomach carcinoma,stomach cancer,"cancer of the stomach,carcinoma of stomach,gastric carcinoma"
+DOID:5518,penis squamous cell carcinoma,penis carcinoma,"Epidermoid cell carcinoma of penis,squamous cell carcinoma of penis"" RELATED"
+DOID:5520,head and neck squamous cell carcinoma,head and neck carcinoma,"carcinoma of the head and neck,squamous cell carcinoma of the head and neck,squamous cell carcinomas of head and neck"
+DOID:5526,middle ear squamous cell carcinoma,cancer,"Epidermoid carcinoma of the middle ear,squamous cell carcinoma of middle ear"" RELATED"
+DOID:5530,thymus squamous cell carcinoma,thymic carcinoma,Epidermoid Thymic carcinoma
+DOID:5557,testicular germ cell cancer,cancer,"germ cell tumor of testis,testicular germ cell neoplasm"" RELATED"
+DOID:5579,gastric gastrinoma,stomach cancer,gastric G-cell gastrin producing tumor
+DOID:5603,T-cell acute lymphoblastic leukemia,acute lymphoblastic leukemia,"acute T cell leukaemia,acute T cell leukemia,Precursor T Lymphoblastic Leukemia,precursor T-lymphoblastic lymphoma/leukemia,T Acute Lymphoblastic Leukemia,T-cell acute lymphocytic leukaemia"
+DOID:5604,adult acute lymphocytic leukemia,acute lymphoblastic leukemia,"adult acute lymphoid Leukemia,adult ALL"
+DOID:5621,histiocytic and dendritic cell cancer,hematologic cancer,histiocytic and dendritic cell
+DOID:5635,gastric adenosquamous carcinoma,stomach carcinoma,Adenosquamous carcinoma of stomach
+DOID:5648,choroid plexus carcinoma,brain cancer,NIL
+DOID:5695,childhood liposarcoma,liposarcoma,pediatric liposarcoma
+DOID:5718,adrenal neuroblastoma,cancer,neuroblastoma of Adrenal gland
+DOID:5742,pancreatic acinar cell adenocarcinoma,pancreatic adenocarcinoma,pancreatic acinar cell carcinoma
+DOID:5744,ovary serous adenocarcinoma,ovarian carcinoma,"malignant ovarian serous tumor,serous carcinoma of Ovary"
+DOID:5746,ovarian serous cystadenocarcinoma,ovarian cystadenocarcinoma,serous cystadenoma
+DOID:5750,endometrial serous adenocarcinoma,uterine cancer,"uterine corpus serous adenocarcinoma,uterine papillary serous carcinoma,uterine serous carcinoma"
+DOID:5809,childhood parosteal osteogenic sarcoma,bone osteosarcoma,NIL
+DOID:5823,childhood lymphoma,lymphoma,pediatric lymphoma
+DOID:5828,endometrioid ovary carcinoma,ovarian carcinoma,"endometrioid carcinoma of ovary"" RELATED,endometrioid carcinoma ovary,Ovarian endometrioid carcinoma"
+DOID:5889,anaplastic ependymoma,high grade ependymoma,"Ependymoma, anaplastic,Undifferentiated Ependymoma"
+DOID:5893,childhood malignant mesenchymoma,cancer,NIL
+DOID:5940,malignant peripheral nerve sheath tumor,peripheral nerve sheath neoplasm,malignant neoplasm of the peripheral nerve Sheath
+DOID:5974,renal pelvis transitional cell carcinoma,kidney cancer,Urothelial cell carcinoma of renal Pelvis
+DOID:6037,spindle cell intraocular melanoma,ocular melanoma,Uveal spindle cell melanoma
+DOID:6039,uveal melanoma,cancer,melanoma of Uvea
+DOID:6052,central nervous system childhood germ cell tumor,cancer,"central nervous system childhood germ cell tumour,paediatric germ cell neoplasm of CNS,pediatric germ cell neoplasm of CNS"
+DOID:6053,childhood germ cell cancer,cancer,"paediatric germ cell cancer,paediatric germ cell neoplasm,pediatric germ cell cancer,pediatric germ cell neoplasm,pediatric germ cell tumor"" RELATED"
+DOID:6082,childhood testicular germ cell tumor,testicular germ cell cancer,"paediatric testicular germ cell neoplasm,paediatric testicular germ cell tumour,pediatric testicular germ cell neoplasm,pediatric testicular germ cell tumor"
+DOID:6083,childhood ovarian endodermal sinus tumor,ovarian cancer,"childhood ovarian endodermal sinus neoplasm,childhood ovarian endodermal sinus tumour,childhood ovarian yolk sac tumor,childhood ovarian yolk sac tumour,paediatric Ovarian Yolk Sac tumour,pediatric Ovarian Yolk Sac tumor"
+DOID:6084,childhood ovarian germ cell tumor,ovarian cancer,"paediatric Ovarian germ cell neoplasm,paediatric ovarian germ cell tumour,pediatric Ovarian germ cell neoplasm,pediatric ovarian germ cell tumor"
+DOID:6089,childhood leptomeningeal melanoma,meningioma,pediatric leptomeningeal melanoma
+DOID:6160,childhood choriocarcinoma of the testis,female reproductive organ cancer,pediatric testicular Choriocarcinoma
+DOID:6161,childhood testicular mixed germ cell tumor,mixed testicular germ cell tumor,"childhood testicular mixed germ cell tumour,paediatric testicular mixed germ cell tumour,pediatric testicular mixed germ cell tumor"
+DOID:6162,childhood embryonal testis carcinoma,cancer,"childhood embryonal carcinoma of the testis"" RELATED,pediatric testicular Embryonal carcinoma"
+DOID:6171,uterine carcinosarcoma,uterine cancer,mixed mullerian sarcoma of uterus
+DOID:6179,ovarian small cell carcinoma,ovarian carcinoma,NIL
+DOID:6212,ovarian endometrial cancer,ovary epithelial cancer,"endometrioid neoplasm of Ovary,malignant ovarian endometrioid tumor,ovarian endometrioid neoplasm"
+DOID:6230,childhood teratoma of the ovary,ovarian cancer,pediatric teratoma of Ovary
+DOID:6231,mature teratoma of the ovary,ovarian cancer,NIL
+DOID:6263,inflammatory breast carcinoma,breast adenocarcinoma,"Inflammatory carcinoma of breast,Mastitis carcinomatosa"
+DOID:6286,childhood cerebellar astrocytic neoplasm,brain cancer,pediatric astrocytoma of Cerebellum
+DOID:6354,chronic lymphocytic leukemia/small lymphocytic lymphoma,chronic lymphocytic leukemia,"B-cell lymphocytic leukemia/small lymphocytic lymphoma,CLL/SLL,ICDO:9823/3"
+DOID:6367,acral lentiginous melanoma,skin melanoma,"acral lentiginous melanoma, malignant,malignant acral lentiginous melanoma"
+DOID:6383,childhood brain stem glioma,childhood brain stem neoplasm,pediatric glioma of the Brainstem
+DOID:6386,childhood brainstem astrocytoma,childhood brain stem glioma,NIL
+DOID:6474,childhood teratocarcinoma of the testis,childhood testicular mixed germ cell tumor,pediatric testicular Teratocarcinoma
+DOID:6477,invasive bladder transitional cell carcinoma,bladder urothelial carcinoma,Invasive bladder Urothelial carcinoma
+DOID:6482,lung acinar adenocarcinoma,lung adenocarcinoma,acinar adenocarcinoma of the lung
+DOID:6494,childhood myxoid chondrosarcoma,chondrosarcoma,pediatric myxoid chondrosarcoma
+DOID:6496,extraskeletal myxoid chondrosarcoma,chondrosarcoma,Myxoid extraosseous chondrosarcoma
+DOID:6511,glandular pattern ovarian yolk sac tumor,ovarian cancer,NIL
+DOID:6575,childhood optic tract astrocytoma,cancer,pediatric visual pathway astrocytoma
+DOID:6576,childhood optic nerve glioma,cancer,glioma of the pediatric visual pathway
+DOID:6587,invasive tubular breast carcinoma,breast adenocarcinoma,"Invasive tubular carcinoma of breast,tubular carcinoma of breast"
+DOID:6610,bone epithelioid hemangioma,NIL,"bone hemangioma,hemangioma of bone,osseous epithelioid hemangioma,osseous hemangioma"
+DOID:6639,childhood CNS choriocarcinoma,female reproductive organ cancer,"Choriocarcinoma of the paediatric central nervous system,Choriocarcinoma of the pediatric central nervous system,paediatric CNS choriocarcinoma,pediatric CNS choriocarcinoma"
+DOID:6654,childhood central nervous system immature teratoma,cancer,NIL
+DOID:6726,fibrillary astrocytoma,malignant astrocytoma,Fibrillary Astrocytic tumors
+DOID:6785,desmoplastic small round cell tumor,sarcoma,desmoplastic small round-cell neoplasm
+DOID:6786,childhood botryoid rhabdomyosarcoma,rhabdomyosarcoma,childhood sarcoma Botryoides
+DOID:6787,childhood vagina botryoid rhabdomyosarcoma,rhabdomyosarcoma,vaginal childhood sarcoma Botryoides
+DOID:6789,vulvar childhood botryoid-type embryonal rhabdomyosarcoma,female reproductive organ cancer,childhood sarcoma Botryoides of the Vulva
+DOID:6812,childhood pilocytic astrocytoma,pilocytic astrocytoma,pediatric Pilocytic astrocytoma
+DOID:6827,pancreatic solid pseudopapillary carcinoma,pancreatic carcinoma,pancreatic solid Pseudopapillary carcinoma
+DOID:684,hepatocellular carcinoma,liver cancer,Hepatoma
+DOID:687,hepatoblastoma,liver cancer,NIL
+DOID:6886,ureter small cell carcinoma,cancer,ureteral small cell carcinoma
+DOID:6938,childhood intraocular retinoblastoma,retinoblastoma,pediatric intraocular retinoblastoma
+DOID:6939,childhood brain meningioma,brain cancer,pediatric meningioma of brain
+DOID:6975,bladder urothelial papillary carcinoma,bladder urothelial carcinoma,"urothelial papillary carcinoma of the bladder"" RELATED"
+DOID:7007,childhood cerebral astrocytoma,brain cancer,pediatric astrocytoma of Cerebrum
+DOID:7037,childhood immature teratoma of ovary,ovarian cancer,pediatric Immature teratoma of Ovary
+DOID:706,mature B-cell neoplasm,B-cell lymphoma,mature B-cell lymphocytic neoplasm
+DOID:707,B-cell lymphoma,lymphoma,B-cell lymphocytic neoplasm
+DOID:7095,childhood epithelioid sarcoma,cancer,pediatric epithelioid sarcoma
+DOID:7146,Langerhans cell sarcoma,histiocytic and dendritic cell cancer,NIL
+DOID:715,T-cell lymphoblastic leukemia/lymphoma,T-cell acute lymphoblastic leukemia,T-cell leukemia
+DOID:7154,anaplastic oligodendroglioma,oligodendroglioma,NIL
+DOID:7231,childhood CNS embryonal cell carcinoma,central nervous system childhood germ cell tumor,"Embryonal carcinoma of paediatric CNS,Embryonal carcinoma of pediatric CNS,paediatric CNS embryonal cell carcinoma,pediatric CNS embryonal cell carcinoma"
+DOID:7297,childhood extraosseous osteosarcoma,cancer,pediatric extraskeletal Osteosarcoma
+DOID:7340,childhood ovarian dysgerminoma,childhood ovarian germ cell tumor,pediatric ovarian dysgerminoma
+DOID:7429,childhood brain germinoma,brain cancer,germinoma of the pediatric brain
+DOID:7430,childhood germ cell brain tumor,central nervous system childhood germ cell tumor,"childhood germ cell brain tumour,germ cell neoplasm of the paediatric brain,germ cell neoplasm of the pediatric brain"
+DOID:7463,childhood pleomorphic rhabdomyosarcoma,rhabdomyosarcoma,childhood anaplastic Rhabdomyosarcoma
+DOID:7474,malignant pleural mesothelioma,cancer,malignant mesothelioma of pleura
+DOID:7501,childhood infratentorial ependymoma,brain cancer,pediatric infratentorial ependymoma
+DOID:7502,childhood supratentorial ependymoma,brain cancer,"paediatric Cerebral Ependymoma,paediatric Supratentorial Ependymoblastoma,paediatric supratentorial ependymoma,pediatric Cerebral Ependymoma,pediatric Supratentorial Ependymoblastoma,pediatric supratentorial ependymoma"
+DOID:7516,childhood central nervous system mixed germ cell tumor,central nervous system childhood germ cell tumor,NIL
+DOID:7522,"childhood infratentorial embryonal tumor with multilayered rosettes, C19MC-altered",childhood infratentorial neoplasm,"childhood infratentorial ependymoblastoma,pediatric infratentorial ependymoblastoma"
+DOID:7612,childhood intracortical osteosarcoma,bone osteosarcoma,NIL
+DOID:7642,cholangiolocellular carcinoma,intrahepatic cholangiocarcinoma,NIL
+DOID:7651,small-cell carcinoma of the ovary of hypercalcemic type,ovarian small cell carcinoma,hypercalcemic type ovarian small cell carcinoma
+DOID:768,retinoblastoma,retinal cell cancer,"neuroblastoma of Retina,RB,RB - Retinoblastoma"
+DOID:769,neuroblastoma,cancer,NIL
+DOID:771,retinal cell cancer,cancer,NIL
+DOID:7731,childhood malignant hemangiopericytoma,hemangiopericytoma,malignant pediatric hemangiopericytoma
+DOID:7732,childhood malignant schwannoma,malignant peripheral nerve sheath tumor,pediatric MPNST
+DOID:7747,childhood extraocular retinoblastoma,retinoblastoma,"childhood Extraocular Retinoblastoma,pediatric extraocular retinoblastoma"
+DOID:7757,childhood leukemia,leukemia,NIL
+DOID:7762,childhood multilocular cystic kidney neoplasm,NIL,"benign Multilocular cystic renal tumor"" RELATED,childhood renal Wilms cancer,pediatric Multilocular cystic renal tumor"
+DOID:7788,adult spinal cord ependymoma,spinal cord ependymoma,NIL
+DOID:7841,"childhood embryonal tumor with multilayered rosettes, C19MC-altered",central nervous system primitive neuroectodermal neoplasm,"childhood cerebral ependymoblastoma,pediatric cerebral ependymoblastoma"
+DOID:7941,Barrett's adenocarcinoma,esophagus adenocarcinoma,"adenocarcinoma Arising in Barrett's Mucosa,Barrett adenocarcinoma"
+DOID:7953,nipple duct carcinoma,breast carcinoma,NIL
+DOID:8036,childhood ovarian embryonal carcinoma,ovarian cancer,"childhood embryonal carcinoma of the ovary"" RELATED,pediatric Embryonal carcinoma of Ovary"
+DOID:8057,olfactory groove meningioma,meningioma,meningioma of the Olfactory Groove
+DOID:8078,childhood central nervous system germinoma,cancer,NIL
+DOID:8149,malignant childhood germ cell neoplasm,childhood germ cell cancer,malignant pediatric germ cell tumor
+DOID:8161,thyroid gland Hurthle cell carcinoma,thyroid gland follicular carcinoma,oncocytic carcinoma of the thyroid
+DOID:8336,childhood choriocarcinoma of the ovary,ovarian cancer,"childhood ovarian choriocarcinoma,pediatric Choriocarcinoma of Ovary"
+DOID:8410,childhood kidney angiomyolipoma,NIL,pediatric renal Angiomyolipoma
+DOID:8418,congenital fibrosarcoma,childhood fibrosarcoma,Infantile fibrosarcoma
+DOID:8533,hypopharynx cancer,gastrointestinal system cancer,"Hypopharyngeal cancer,malignant Hypopharyngeal tumor,malignant neoplasm of hypopharynx,malignant tumor of hypopharynx,malignant tumour of hypopharynx"
+DOID:8541,Sezary's disease,peripheral T-cell lymphoma,"Sezary disease,Sezary syndrome"
+DOID:8552,chronic myeloid leukemia,leukemia,"chronic granulocytic leukaemia,chronic granulocytic leukemia,chronic myelogenous leukaemia,chronic myelogenous leukemia,chronic myeloid leukaemia,CML,CML - chronic Myelogenous Leukemia,Myeloid Leukemia, chronic"
+DOID:8557,oropharynx cancer,gastrointestinal system cancer,"malignant Oropharyngeal tumor,malignant tumor of oropharynx,malignant tumour of mesopharynx,oropharyngeal cancer,Oropharyngeal carcinoma"
+DOID:8567,Hodgkin's lymphoma,lymphoma,"HL,Hodgkin disease,Hodgkin lymphoma,Hodgkin's sarcoma,Hodgkins lymphoma,stage I Subdiaphragmatic Hodgkin Lymphoma,stage II Subdiaphragmatic Hodgkin Lymphoma"
+DOID:8584,Burkitt lymphoma,mature B-cell neoplasm,"Burkitt lymphoma/leukaemia,Burkitt's Lymphoma,Burkitt's tumor,Burkitt's tumor or lymphoma,malignant lymphoma, Burkitt's type,small Non-Cleaved cell Lymphoma, Burkitt's type"
+DOID:8850,salivary gland cancer,gastrointestinal system cancer,malignant neoplasm of salivary gland
+DOID:8923,skin melanoma,cancer,"cutaneous melanoma,malignant ear melanoma,malignant lip melanoma,malignant lower limb melanoma,malignant melanoma of ear and/or external auricular canal,malignant melanoma of skin of lower limb,malignant melanoma of skin of trunk except scrotum,malignant melanoma of skin of upper limb,malignant neck melanoma,malignant scalp melanoma,malignant trunk melanoma,malignant upper limb melanoma"
+DOID:8997,polycythemia vera,myeloproliferative neoplasm,"chronic erythremia,Osler-Vaquez syndrome,Polycythaemia rubra vera,Proliferative polycythaemia"
+DOID:9119,acute myeloid leukemia,leukemia,"acute myeloblastic leukaemia,acute myeloblastic leukemia,acute myelogenous leukaemia,acute myelogenous leukemia,acute myeloid leukaemia,AML - acute Myeloid Leukemia,Leukemia, Myelocytic, acute"
+DOID:9253,gastrointestinal stromal tumor,gastrointestinal system cancer,"GANT,gastrointestinal stromal tumour,GIST,Stromal tumor of gastrointestinal tract,Stromal tumour of gastrointestinal tract"
+DOID:9256,colorectal cancer,gastrointestinal system cancer,NIL
+DOID:9261,nasopharynx carcinoma,gastrointestinal system cancer,"carcinoma of nasopharynx"" RELATED,malignant Nasopharyngeal tumor,malignant neoplasm of nasopharynx,Nasopharyngeal carcinoma,nasopharynx cancer"
+DOID:9538,multiple myeloma,myeloid neoplasm,NIL
+DOID:962,neurofibroma,peripheral nerve sheath neoplasm,NIL
+DOID:9952,acute lymphoblastic leukemia,acute leukemia,"acute lymphoblastic leukaemia,acute lymphocytic leukaemia,ALL,precursor lymphoblastic lymphoma/leukemia"
+DOID:9953,acute biphenotypic leukemia,acute leukemia,mixed phenotype acute leukemia
